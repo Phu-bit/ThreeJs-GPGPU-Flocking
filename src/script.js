@@ -19,7 +19,7 @@ const BIRDS = WIDTH * WIDTH;
 class BirdGeometry extends THREE.BufferGeometry {
 
     constructor() {
-
+ 
         super();
 
         const trianglesPerBird = 3;
